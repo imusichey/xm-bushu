@@ -54,7 +54,7 @@
 
 7. 请各位在使用时Fork[主分支](https://github.com/Squaregentleman/mimotion/)，防止出现不必要的bug.
 
-8. TG1推送教程 [点我](./TG_PUSH.md)
+8. TG推送教程 [点我](./TG_PUSH.md)
 
 ## 历史Star数
 
